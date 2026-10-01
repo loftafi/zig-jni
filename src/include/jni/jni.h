@@ -1,3 +1,7 @@
+#define __ANDROID_MIN_SDK_VERSION__ 27
+#define TARGET_ARCH aarch64-linux-android
+#define HOST aarch64-linux-android
+
 /*
  * Copyright (c) 1996, 2023, Oracle and/or its affiliates. All rights reserved.
  * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS FILE HEADER.
